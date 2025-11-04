@@ -1,5 +1,5 @@
 # 🚀 Cursor Free Trial Reset Tool
-
+first commit
 <div align="center">
 
 [![Release](https://img.shields.io/github/v/release/yuaotian/go-cursor-help?style=flat-square&logo=github&color=blue)](https://github.com/yuaotian/go-cursor-help/releases/latest)
